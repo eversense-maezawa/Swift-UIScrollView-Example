@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  UIImageView-Sample
+//  UIScrollView-Sample
 //
-//  Created by maezawa on 2014/10/22.
+//  Created by maezawa on 2014/10/28.
 //  Copyright (c) 2014年 hirokazu maezawa. All rights reserved.
 //
 

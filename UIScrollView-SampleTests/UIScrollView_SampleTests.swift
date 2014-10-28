@@ -1,15 +1,15 @@
 //
-//  UIImageView_SampleTests.swift
-//  UIImageView-SampleTests
+//  UIScrollView_SampleTests.swift
+//  UIScrollView-SampleTests
 //
-//  Created by maezawa on 2014/10/22.
+//  Created by maezawa on 2014/10/28.
 //  Copyright (c) 2014年 hirokazu maezawa. All rights reserved.
 //
 
 import UIKit
 import XCTest
 
-class UIImageView_SampleTests: XCTestCase {
+class UIScrollView_SampleTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
